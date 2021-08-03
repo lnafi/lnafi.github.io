@@ -1,0 +1,40 @@
+@font-face { font-family: AA; src: url("AA.ttf")}
+
+body	{
+	background-color: black;
+	color: white;
+	font-family: AA;
+	text-align: center;
+}
+
+span	{
+	color: red;
+	font-size: 30px;
+	text-decoration: line-through;
+}
+
+input {
+  border: 0;
+  padding: 10pt;
+  font-size: 14pt;
+}
+
+input[type="submit"]  {
+  background: blue;
+  color: white;
+}
+
+li	{
+  display: inline;
+  padding: 0px 10px 0px 10px;
+	text-align: center;
+}
+
+ul  {
+  padding: 10px;
+  background: white;
+}
+
+img	{
+	width: 400px;
+}
